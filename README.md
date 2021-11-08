@@ -159,7 +159,7 @@ A data structure is perticual way of organizing the data in computer so that we 
 - Tree
 - Graph
 - Set
-
+---
 
 **REFERENCES :** [GeeksforGeeks](https://www.geeksforgeeks.org/data-types-in-java/)
                  [JavatPoints](https://www.javatpoint.com/java-data-types)
