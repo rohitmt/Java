@@ -146,7 +146,7 @@ Data types specifies the different size and values that can be stored in the var
       
 # Data Structure
 
-A data structure is perticual way of organizing the data in computer so that we can perform operation on data and get the desired output.There are two types of data structures.
+A data structure is perticular way of organizing the data in computer so that we can perform operation on data and get the desired output.There are two types of data structures.
 
 1.**Primitive data structure :** The primitive data structures are primitive data types. The int, char, float, double, and pointer are the primitive data structures that can hold a single value.
 
